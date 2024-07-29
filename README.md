@@ -2,7 +2,7 @@
 
 ## Array and Strings
 
-- [Two Sum](https://leetcode.com/problems/two-sum/)
+- [Two Sum](https://leetcode.com/problems/two-sum/) v
 
 - [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
@@ -12,7 +12,7 @@
 
 - [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 
-- [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
+- [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) v
 
 ## Hash Table
 
