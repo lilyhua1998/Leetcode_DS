@@ -72,3 +72,6 @@ result_listNode=s.addTwoNumbers(l1,l2)
 checkinput(result_listNode)
 
 """
+
+#https://daniel820710.medium.com/leetcode-link-list-介紹-6d6dfe14a53b
+#This solution has well explaination
