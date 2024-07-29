@@ -1,35 +1,35 @@
 # Leetcode_DS
 
 
-Array and Strings:
->>Two Sum
->>Longest Substring Without Repeating Characters
->>Product of Array Except Self
+- Array and Strings:
+Two Sum
+Longest Substring Without Repeating Characters
+Product of Array Except Self
 
-Linked List:
->>Merge Two Sorted Lists
->>Add Two Numbers
+- Linked List:
+Merge Two Sorted Lists
+Add Two Numbers
 
-Hash Table:
->>Group Anagrams
->>Top K Frequent Elements
+- Hash Table:
+Group Anagrams
+Top K Frequent Elements
 
-Dynamic Programming:
->>Climbing Stairs
->>Longest Increasing Subsequence
+- Dynamic Programming:
+Climbing Stairs
+Longest Increasing Subsequence
 
-Tree:
->>Binary Tree Inorder Traversal
->>Lowest Common Ancestor of a Binary Search Tree
+- Tree:
+Binary Tree Inorder Traversal
+Lowest Common Ancestor of a Binary Search Tree
 
-Graph:
->>Number of Islands
->>Clone Graph
+- Graph:
+Number of Islands
+Clone Graph
 
-Sorting and Searching:
->>Merge Intervals
->>Search in Rotated Sorted Array
+- Sorting and Searching:
+Merge Intervals
+Search in Rotated Sorted Array
 
-Math and Bit Manipulation:
->>Single Number
->>Reverse Bits
+- Math and Bit Manipulation:
+Single Number
+Reverse Bits
