@@ -2,7 +2,7 @@
 
 
 - Array and Strings:
-Two Sum\\
+Two Sum \n
 Longest Substring Without Repeating Characters
 Product of Array Except Self
 
