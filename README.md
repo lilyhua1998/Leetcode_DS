@@ -16,7 +16,7 @@
 
 ## Hash Table
 
-- [Group Anagrams](https://leetcode.com/problems/group-anagrams/) (estimated 7.30)
+- [Group Anagrams](https://leetcode.com/problems/group-anagrams/) v
 
 - [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) (estimated 8.8)
 
